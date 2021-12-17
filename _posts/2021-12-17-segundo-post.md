@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "primer post bienvenida"
+title:  "segundo post"
 author: "mongrelmeister"
 ---
 

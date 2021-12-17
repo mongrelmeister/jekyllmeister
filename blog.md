@@ -4,4 +4,4 @@ title: Blog
 permalink: /blog/
 ---
 
-Bienvenid@s a mi blog personal.
+*Listado de Posts*
